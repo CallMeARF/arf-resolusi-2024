@@ -1,4 +1,5 @@
 - Konsisten belajar!
 - Menyelesaikan jalur belajar web developer di WPU
 - Menjadi fullstack developer
+- Membuat dan mengembangkan website portfolio
 - Membuat web list anime sendiri!
