@@ -4,3 +4,6 @@
   - CSS Flex
   - CSS Grid
 - Pahami & kuasai JavaScript
+  - Dasar Js
+  - OOP Js
+  - Framework Js
