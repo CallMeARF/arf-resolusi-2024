@@ -1,0 +1,3 @@
+- Fokus dari front-end
+- Perdalam HTML & CSS
+- Pahami & kuasai JavaScript
