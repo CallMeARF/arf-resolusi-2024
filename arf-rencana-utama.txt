@@ -1,5 +1,4 @@
 - Fokus dari front-end
-  Mulai perdalam bagian front-end
 - Perdalam HTML & CSS
   - CSS Flex
   - CSS Grid
